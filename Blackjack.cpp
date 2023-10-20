@@ -121,7 +121,7 @@ void final()
 	gotoxy(30, 10);
 	printf("GRACIAS POR JUGAR %c", 5);
 	gotoxy(15, 21);
-	printf("Copyright %c17/04/2023 YOHAN ALEK PLAZOLA ARANGURE", 169);
+	printf("Copyright %c 17/04/2023 YOHAN ALEK PLAZOLA ARANGURE", 169);
 	getch();
 }
 
